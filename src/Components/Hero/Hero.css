@@ -1,0 +1,10 @@
+.top-banner {
+    width: 100%;
+    background: url(https://t4.ftcdn.net/jpg/03/09/86/97/360_F_309869755_IquCHHxF7YABo2odctUGEjMrgVDSM8qV.jpg) no-repeat center;
+    background-size: cover; /* This property ensures the background image covers the entire container */
+    padding: 14.875rem 0 9.375rem;
+}
+
+.shop-now{
+    width: 200px;
+}

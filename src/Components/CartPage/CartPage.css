@@ -1,0 +1,54 @@
+.cart-heading{
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.cart-sub-heading{
+    border-left: white 2px solid;
+    border-bottom: white 2px solid;
+}
+
+.cart-total {
+    border-left: 2px solid white;
+  }
+
+.cart-total-final{
+    border-left: 2px solid white;
+    background-color: red;
+    color: white;
+}
+
+.cart-detail-heading{
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.cart-item-price{
+    margin-left: 20px;
+}
+
+.ship-item-hr{
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 991px) {
+    .cart-detail-heading{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .cart-item-price{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .ship-item-hr{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+  }

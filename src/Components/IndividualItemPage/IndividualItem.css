@@ -1,0 +1,23 @@
+.breadcrumbs_arrow{
+    height: 30px;
+    width: 30px;
+}
+
+.product-display-right-size-chart{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.product-display-right-prices{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.right-price-old{
+    text-decoration: line-through;
+}
